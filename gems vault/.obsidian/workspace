@@ -7,12 +7,8 @@
         "id": "538a1d48b2dbee76",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "main.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
