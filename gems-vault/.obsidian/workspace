@@ -7,8 +7,12 @@
         "id": "538a1d48b2dbee76",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "main.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +89,7 @@
   },
   "active": "538a1d48b2dbee76",
   "lastOpenFiles": [
-    "main.md"
+    "main.md",
+    "gems-vault/main.md"
   ]
 }
