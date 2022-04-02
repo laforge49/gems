@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/asynchronous-entities.iml" filepath="$PROJECT_DIR$/asynchronous-entities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gems.iml" filepath="$PROJECT_DIR$/gems.iml" />
     </modules>
   </component>
 </project>
