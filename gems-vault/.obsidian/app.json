@@ -4,5 +4,7 @@
   "fileSortOrder": "alphabetical",
   "showLineNumber": true,
   "spellcheck": true,
-  "useTab": false
+  "useTab": false,
+  "newFileLocation": "current",
+  "newLinkFormat": "absolute"
 }
