@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "main.md",
+            "file": "intro.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "main.md",
+                "file": "intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
   },
   "active": "538a1d48b2dbee76",
   "lastOpenFiles": [
-    "main.md",
+    "intro.md",
     "gems-vault/main.md"
   ]
 }
