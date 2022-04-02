@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "intro.md",
+            "file": "topics/env.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intro.md",
+                "file": "topics/env.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "538a1d48b2dbee76",
   "lastOpenFiles": [
-    "intro.md",
     "topics/env.md",
+    "intro.md",
     "topics.md",
     "gems-vault/main.md"
   ]

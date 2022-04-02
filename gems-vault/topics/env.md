@@ -8,4 +8,4 @@ In general, the environment is not passed back from a function in a return value
 
 This approach works well with [go blocks](https://clojuredocs.org/clojure.core.async/go), as each go block can be passed parameters specific to that block while being able to access (and update) the mutable data referenced in the environment. Additionally, not all versions of the environment need have the same atoms, so a go block can be limited in scope to just the mutable state that was passed to it.
 
-This is in contrast to a common approach which keeps all mutable data in a map wrapped by a global atom. An approach which clearly violates the old adage that global variables are to be avoided.
+This is in contrast to a common approach of keeping all mutable data in a map that is wrapped by a global atom--an approach which clearly violates the old adage that global data should be minimized if not entirely avoided.
