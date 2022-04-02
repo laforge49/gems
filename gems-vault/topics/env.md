@@ -1,3 +1,5 @@
+back: [Introduction](intro)
+
 # Environment
 
 The environment is an [immutable map](https://clojure.org/reference/data_structures#Maps), which holds all parameters and state. The environment is held by a local variable rather than being global. The contents of this map are often modified and the new versions are passed as arguments when calling functions in the gems framework. 
