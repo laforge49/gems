@@ -1,4 +1,4 @@
-# gems
+# Gems
 
 An application framework with support for interchanges, roles, order and aggregation.
 
@@ -10,7 +10,11 @@ An application framework with support for interchanges, roles, order and aggrega
 
 ## Status
 
-### 5/1/2022 
+### 4/2/2022
+
+- Added status to README.md file.
+
+### 4/1/2022 
 - Created the [gems reposiory](https://github.com/laforge49/gems)
 - Stubbed the [gems-vault](https://github.com/laforge49/gems/blob/main/gems-vault/)
 with an empty intro page.
