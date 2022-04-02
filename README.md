@@ -7,6 +7,7 @@ An application framework with support for interchanges, roles, order and aggrega
 * DOCUMENTATION: [intro](https://github.com/laforge49/gems/blob/main/gems-vault/intro.md)
 * DEPENDENCIES: [tupelo](https://github.com/cloojure/tupelo), 
 [async](https://github.com/clojure/core.async)
+* PREDECESSOR: [asynchronous-entities](https://github.com/laforge49/asynchronous-entities)
 
 ## Status
 
