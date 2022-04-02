@@ -1,5 +1,8 @@
 {
   "legacyEditor": false,
   "livePreview": true,
-  "fileSortOrder": "alphabetical"
+  "fileSortOrder": "alphabetical",
+  "showLineNumber": true,
+  "spellcheck": true,
+  "useTab": false
 }
