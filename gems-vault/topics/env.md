@@ -1,4 +1,4 @@
-back: [Introduction](../intro.md)
+back: [Introduction](../intro.md) [[intro]]
 
 # Environment
 
