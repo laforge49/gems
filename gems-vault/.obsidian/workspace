@@ -90,7 +90,11 @@
   "active": "538a1d48b2dbee76",
   "lastOpenFiles": [
     "intro.md",
+    "topics/gem.md",
     "topics/env.md",
+    "topics/reference.md",
+    "topics/id.md",
+    "topics/coin.md",
     "topics.md",
     "gems-vault/main.md"
   ]
