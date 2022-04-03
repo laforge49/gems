@@ -90,12 +90,14 @@
   "active": "538a1d48b2dbee76",
   "lastOpenFiles": [
     "intro.md",
+    "topics/role-name.md",
+    "topics/prefix.md",
+    "topics/namespace.md",
+    "topics/keyword.md",
+    "topics/name.md",
+    "topics/id.md",
     "topics/gem.md",
     "topics/env.md",
-    "topics/reference.md",
-    "topics/id.md",
-    "topics/coin.md",
-    "topics.md",
-    "gems-vault/main.md"
+    "topics/reference.md"
   ]
 }

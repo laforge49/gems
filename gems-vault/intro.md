@@ -4,8 +4,13 @@ Gems is an experimental framework for knowledge applications. The API is intende
 
 ## Topics
 
+- [name](topics/name.md)
+- [namespace](topics/namespace.md)
 - [coin](topics/coin.md)
 - [env](topics/env.md)
 - [gem](topics/gem.md)
 - [id](topics/id.md)
+- [keyword](topics/keyword.md)
+- [prefix](topics/prefix.md)
 - [reference](topics/reference.md)
+- [role-name](topics/role-name.md)
