@@ -2,15 +2,15 @@
 
 Gems is an experimental framework for knowledge applications. The API is intended to be rich in advanced features, but the scope is restricted to a single host and a relatively small dataset. Multi-threading is supported, and serialization is done using [YAML](https://en.wikipedia.org/wiki/YAML).
 
-## Topics
+## Basics
 
-- [name](topics/name.md)
-- [namespace](topics/namespace.md)
-- [coin](topics/coin.md)
-- [env](topics/env.md)
-- [gem](topics/gem.md)
-- [id](topics/id.md)
-- [keyword](topics/keyword.md)
-- [prefix](topics/prefix.md)
-- [reference](topics/reference.md)
-- [role-name](topics/role-name.md)
+- [name](basics/name.md)
+- [namespace](basics/namespace.md)
+- [keyword](basics/keyword.md)
+- [coin](basics/coin.md)
+- [env](basics/env.md)
+- [gem](basics/gem.md)
+- [id](basics/id.md)
+- [reference](basics/reference.md)
+- [prefix](basics/prefix.md)
+- [role-name](basics/role-name.md)
