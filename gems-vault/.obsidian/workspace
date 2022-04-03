@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "basics/context.md",
+            "file": "intro.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "basics/context.md",
+                "file": "intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,10 +89,10 @@
   },
   "active": "538a1d48b2dbee76",
   "lastOpenFiles": [
+    "intro.md",
     "basics/context.md",
     "basics/coin.md",
     "basics/name.md",
-    "intro.md",
     "basics/env.md",
     "basics/role-name.md",
     "basics/reference.md",
