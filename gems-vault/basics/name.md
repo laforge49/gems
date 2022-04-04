@@ -2,6 +2,6 @@ back: [intro](../intro.md)
 
 # Name
 
-Names are strings. A name is also the second data element in an [id](basics/id.md).
+Names are strings. A name is also the second element in an [id](basics/id.md).
 
 A name is unique within the scope of a [context](basics/context.md).
