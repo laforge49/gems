@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "basics/roleName.md",
+            "file": "intro.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "basics/roleName.md",
+                "file": "intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,9 +89,9 @@
   },
   "active": "538a1d48b2dbee76",
   "lastOpenFiles": [
-    "basics/roleName.md",
-    "basics/keyword.md",
     "intro.md",
+    "basics/keyword.md",
+    "basics/roleName.md",
     "basics/namespace.md",
     "basics/name.md",
     "basics/env.md",
