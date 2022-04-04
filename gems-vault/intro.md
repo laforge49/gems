@@ -14,4 +14,4 @@ Gems is an experimental framework for knowledge applications. The API is intende
 - [id](basics/id.md)
 - [reference](basics/reference.md)
 - [prefix](basics/prefix.md)
-- [role-name](basics/role-name.md)
+- [roleName](basics/roleName.md)
