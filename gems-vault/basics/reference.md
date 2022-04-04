@@ -7,5 +7,3 @@ The form of a reference is prefix#namespace+name^rolename. The shortest variatio
 - namespace+name^rolename
 - prefix#name^rolename and
 - prefix#namespace+name.
-
-The ids of context and role gems can also be resolved from the namespace and rolename respectively within a given context.
