@@ -1,6 +1,6 @@
 {
   "legacyEditor": false,
-  "livePreview": true,
+  "livePreview": false,
   "fileSortOrder": "alphabetical",
   "showLineNumber": true,
   "spellcheck": true,
@@ -8,5 +8,8 @@
   "newFileLocation": "current",
   "newLinkFormat": "absolute",
   "alwaysUpdateLinks": true,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "strictLineBreaks": true,
+  "foldIndent": false,
+  "showIndentGuide": false
 }

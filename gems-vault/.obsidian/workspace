@@ -7,12 +7,8 @@
         "id": "538a1d48b2dbee76",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "basics/context.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "basics/context.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,25 +74,35 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "ee75f582314817a5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "538a1d48b2dbee76",
   "lastOpenFiles": [
-    "basics/context.md",
-    "basics/reference.md",
-    "intro.md",
-    "basics/coin.md",
-    "basics/prefix.md",
-    "basics/gem.md",
-    "basics/id.md",
     "basics/keyword.md",
+    "basics/namespace.md",
+    "basics/coin.md",
+    "intro.md",
+    "basics/name.md",
     "basics/env.md",
-    "basics/rolename.md"
+    "basics/id.md",
+    "basics/federation.md",
+    "basics/rolename.md",
+    "basics/context.md"
   ]
 }
