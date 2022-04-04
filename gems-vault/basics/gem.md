@@ -2,7 +2,7 @@ back: [intro](../intro.md)
 
 # Gem
 
-Gems are the principal data structure in the gems framework. Gems can operate asynchronously as individuals or synchronously within a [federation](basics/federation.md).
+Gems are the principal data structure in the gems framework. A gem can operate asynchronously as an individual or synchronously within a [federation](basics/federation.md).
 
 Gems can be accessed either by an [id](basics/id.md) or a [reference](basics/reference.md). And within a [context](basics/context.md) by their [name](basics/name.md).
 
