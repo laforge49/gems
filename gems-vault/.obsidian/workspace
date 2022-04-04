@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "basics/coin.md",
+            "file": "basics/federation.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "basics/coin.md",
+                "file": "basics/federation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +100,7 @@
   },
   "active": "538a1d48b2dbee76",
   "lastOpenFiles": [
+    "basics/federation.md",
     "basics/coin.md",
     "intro.md",
     "basics/keyword.md",
@@ -107,7 +108,6 @@
     "basics/name.md",
     "basics/env.md",
     "basics/id.md",
-    "basics/federation.md",
     "basics/rolename.md",
     "basics/context.md"
   ]
