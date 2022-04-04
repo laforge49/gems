@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "intro.md",
+            "file": "basics/env.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intro.md",
+                "file": "basics/env.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "538a1d48b2dbee76",
   "lastOpenFiles": [
-    "intro.md",
-    "basics/keyword.md",
-    "basics/roleName.md",
-    "basics/namespace.md",
-    "basics/name.md",
     "basics/env.md",
+    "intro.md",
+    "basics/gem.md",
+    "basics/keyword.md",
+    "basics/namespace.md",
+    "basics/roleName.md",
+    "basics/name.md",
     "basics/coin.md",
     "basics/context.md",
-    "basics/reference.md",
-    "basics/prefix.md"
+    "basics/reference.md"
   ]
 }
