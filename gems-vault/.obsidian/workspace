@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "basics/reference.md",
+            "file": "intro.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "basics/reference.md",
+                "file": "intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +100,7 @@
   },
   "active": "538a1d48b2dbee76",
   "lastOpenFiles": [
+    "intro.md",
     "basics/reference.md",
     "basics/namespace.md",
     "basics/prefix.md",
@@ -108,7 +109,6 @@
     "basics/id.md",
     "basics/env.md",
     "basics/context.md",
-    "intro.md",
     "basics/coin.md"
   ]
 }

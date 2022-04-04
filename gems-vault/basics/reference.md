@@ -7,3 +7,5 @@ The form of a reference is prefix#namespace+name^rolename. The shortest variatio
 - namespace+name^rolename
 - prefix#name^rolename and
 - prefix#namespace+name.
+
+A reference is used as a key in a sorted map rather than an id. The prefixes of the keys then are used to control how the contents are sorted. And the gems named by the rolenames are used to process the values.
