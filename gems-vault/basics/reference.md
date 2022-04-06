@@ -15,7 +15,7 @@ A reference is used as a key in a sorted map rather than an id. The prefixes of 
 A fully resolved reference is a vector with the following items:
 
 - prefix (or nil)
-- context id (or nil for [root+sys](basics/root+sys.md) as there is no root context.)
+- context id (or nil for [root+sys](gems/root+sys.md) as there is no root context.)
 - gem id and
 - role id (or nil).
 
