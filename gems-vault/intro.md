@@ -16,6 +16,7 @@ Why are multiple journals supported for each layer? Journals in the same layer a
 - [namespace](basics/namespace.md)
 - [env](basics/env.md)
 - [gem](basics/gem.md)
+  - [Facets](basics/gem.md#Facets)
 - [id](basics/id.md)
 - [reference](basics/reference.md)
   - [Fully Resolved References](basics/reference.md#Fully%20Resolved%20References)

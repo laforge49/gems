@@ -101,14 +101,14 @@
   "active": "538a1d48b2dbee76",
   "lastOpenFiles": [
     "atoms/sys+contextsatom.md",
-    "basics/referencemap.md",
-    "basics/reference.md",
+    "facets/sys+atomsfacet.md",
+    "basics/gem.md",
     "basics/env.md",
     "gems/root+sys.md",
-    "intro.md",
     "basics/context.md",
-    "basics/gem.md",
-    "basics/federation.md",
-    "basics/rolename.md"
+    "intro.md",
+    "basics/referencemap.md",
+    "basics/reference.md",
+    "basics/federation.md"
   ]
 }

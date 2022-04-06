@@ -10,6 +10,8 @@ This approach works well with [go blocks](https://clojuredocs.org/clojure.core.a
 
 This is in contrast to a common approach of keeping all mutable data in a map that is wrapped by a global atom--an approach which clearly violates the old adage that global data should be minimized if not entirely avoided.
 
-### Atoms held by Env
+### Atoms
+
+These are the atoms held by env:
 
 - [sys+contextsatom](atoms/sys+contextsatom.md)
