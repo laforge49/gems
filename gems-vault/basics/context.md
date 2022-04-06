@@ -9,6 +9,6 @@ Imports are implemented as a vector of context references included in the contex
 
 ### Resolving Names
 
-A name is resolved within a given context to the id of a gem by matching the name to the names of the gems under that context and returning the id of the matching gem.
+A name is resolved for a given context id to the id of a gem by matching the name to the names of the gems under that context and returning the id of the matching gem.
 
-If the search fails, then every imported context is searched recursively until a match is found. If there is still no match, then the id of the given context is returned.
+If the search fails, then every imported context is searched recursively until a match is found. If there is still no match, then the given context id is returned.
