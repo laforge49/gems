@@ -1,4 +1,4 @@
-back: [intro](../intro.md)
+back: [intro](../intro.md#Basics)
 
 # Namespace
 

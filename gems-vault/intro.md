@@ -1,6 +1,6 @@
 # Introduction to Gems
 
-Gems is an experimental framework for knowledge applications. The API is intended to be rich in advanced features, but the scope is restricted to a single host and a moderately sized dataset. Multi-threading is supported, and serialization is done using [YAML](https://en.wikipedia.org/wiki/YAML).
+Gems is an experimental framework for knowledge applications. The API is intended to be rich in advanced features, but the scope is restricted to a single host and a moderately sized dataset. [Go blocks](https://clojuredocs.org/clojure.core.async/go) are used to support multi-threading, and serialization is done using [YAML](https://en.wikipedia.org/wiki/YAML).
 
 ### A Generative Approach
 
@@ -10,7 +10,7 @@ Why are multiple layers used? As each layer is processed in turn, the result is 
 
 Why are multiple journals supported for each layer? Journals in the same layer are processed as a group, allowing for interdependencies between journals in the same layer. This facilitates the partitioning of the content of these journals with few restrictions.
 
-## Basics
+### Basics
 
 - [name](basics/name.md)
 - [namespace](basics/namespace.md)
@@ -25,3 +25,9 @@ Why are multiple journals supported for each layer? Journals in the same layer a
   - [Resolving Names](basics/context.md#Resolving%20Names)
 - [referencemap](basics/referencemap.md)
 - [federation](basics/federation.md)
+
+### Atoms
+
+[Atoms](https://clojure.org/reference/atoms) are used to wrap state which may be accessed by more than one go block. These atoms are found in [env](basics/env.md) and [gems](basics/gem.md)
+
+- [sys+contextsatom](atoms/sys+contextsatom.md)

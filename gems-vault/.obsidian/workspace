@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "basics/reference.md",
+            "file": "atoms/sys+contextsatom.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -54,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 312
   },
   "right": {
     "id": "cb6ddf041fa530f9",
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "basics/reference.md",
+                "file": "atoms/sys+contextsatom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "538a1d48b2dbee76",
   "lastOpenFiles": [
-    "basics/reference.md",
-    "basics/context.md",
+    "atoms/sys+contextsatom.md",
     "intro.md",
-    "basics/federation.md",
-    "basics/referencemap.md",
-    "basics/rolename.md",
-    "basics/prefix.md",
-    "basics/id.md",
     "basics/gem.md",
-    "basics/env.md"
+    "basics/env.md",
+    "basics/federation.md",
+    "basics/root+sys.md",
+    "basics/rolename.md",
+    "basics/referencemap.md",
+    "basics/reference.md",
+    "basics/prefix.md"
   ]
 }

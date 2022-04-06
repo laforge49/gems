@@ -1,4 +1,4 @@
-back: [intro](../intro.md)
+back: [intro](../intro.md#Basics)
 
 # Reference
 A reference is a string that contains an optional [prefix](basics/prefix.md), an optional [namespace](basics/namespace.md), a gem [name](basics/name.md) and an optional [rolename](basics/rolename.md). Using the namespace and name, the [id](basics/id.md) of a gem is easily constructed. And when the namespace is not present, the id can be [resolved](basics/context.md#Resolving%20Names) from the name within a given [context](basics/context.md).
@@ -15,7 +15,7 @@ A reference is used as a key in a sorted map rather than an id. The prefixes of 
 A fully resolved reference is a vector with the following items:
 
 - prefix (or nil)
-- context id (or nil for root+sys as there is no root context.)
+- context id (or nil for [root+sys](basics/root+sys.md) as there is no root context.)
 - gem id and
 - role id (or nil).
 
