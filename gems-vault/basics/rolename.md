@@ -1,6 +1,6 @@
 back: [intro](../intro.md)
 
-# Rolename
+# Role Name
 
 A rolename is the name of a role [gem](basics/gem.md). It is also one of the elements of a [reference](basics/reference.md).
 

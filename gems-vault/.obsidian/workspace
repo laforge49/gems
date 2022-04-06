@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "basics/env.md",
+            "file": "basics/referencemap.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "basics/env.md",
+                "file": "basics/referencemap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "538a1d48b2dbee76",
   "lastOpenFiles": [
-    "basics/env.md",
+    "basics/referencemap.md",
     "intro.md",
+    "basics/rolename.md",
     "basics/reference.md",
+    "basics/env.md",
+    "basics/gem.md",
     "basics/namespace.md",
     "basics/prefix.md",
-    "basics/rolenamex.md",
     "basics/name.md",
-    "basics/id.md",
-    "basics/context.md",
-    "basics/coin.md"
+    "basics/id.md"
   ]
 }
