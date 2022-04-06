@@ -17,6 +17,6 @@ A fully resolved reference is a vector with the following items:
 - prefix (or nil)
 - namespace id
 - gem id and
-- role id.
+- role id (or nil).
 
 A fully resolved reference is created from a reference string by [resolving](basics/context.md#Resolving%20Names) the elements named in the reference.

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "intro.md",
+            "file": "basics/reference.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intro.md",
+                "file": "basics/reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,10 +100,10 @@
   },
   "active": "538a1d48b2dbee76",
   "lastOpenFiles": [
+    "basics/reference.md",
     "intro.md",
     "basics/env.md",
     "basics/context.md",
-    "basics/reference.md",
     "basics/referencemap.md",
     "basics/namespace.md",
     "basics/gem.md",
