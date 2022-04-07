@@ -31,7 +31,7 @@ Why are multiple journals supported for each layer? Journals in the same layer a
 
 [Atoms](https://clojure.org/reference/atoms) are used to wrap state which may be accessed by more than one go block. These atoms are found in [env](basics/env.md) and [gems](basics/gem.md)
 
-- [sys+contextsatom](atoms/sys+contextsatom.md)
+- [sys+gemsatom](atoms/sys+gemsatom.md)
 
 ### Gems
 

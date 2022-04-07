@@ -14,4 +14,4 @@ This is in contrast to a common approach of keeping all mutable data in a map th
 
 These are the atoms held by env:
 
-- [sys+contextsatom](atoms/sys+contextsatom.md)
+- [sys+gemsatom](atoms/sys+gemsatom.md)

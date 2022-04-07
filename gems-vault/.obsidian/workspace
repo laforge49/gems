@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "basics/context.md",
-            "mode": "preview",
+            "file": "atoms/sys+gemsatom.md",
+            "mode": "source",
             "backlinks": false,
             "source": true
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "basics/context.md",
+                "file": "atoms/sys+gemsatom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,14 +100,14 @@
   },
   "active": "538a1d48b2dbee76",
   "lastOpenFiles": [
+    "atoms/sys+gemsatom.md",
+    "basics/env.md",
+    "intro.md",
     "basics/context.md",
-    "atoms/sys+contextsatom.md",
     "facets/sys+atomsfacet.md",
     "basics/id.md",
     "basics/gem.md",
-    "basics/env.md",
     "gems/root+sys.md",
-    "intro.md",
     "basics/referencemap.md",
     "basics/reference.md"
   ]
