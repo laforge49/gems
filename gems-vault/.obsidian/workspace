@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "atoms/sys+namespaceatom.md",
+            "file": "atoms/sys+gemsatom.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "atoms/sys+namespaceatom.md",
+                "file": "atoms/sys+gemsatom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,8 +100,8 @@
   },
   "active": "538a1d48b2dbee76",
   "lastOpenFiles": [
-    "atoms/sys+namespaceatom.md",
     "atoms/sys+gemsatom.md",
+    "atoms/sys+namespaceatom.md",
     "gems/root+sys.md",
     "facets/sys+atomsfacet.md",
     "basics/context.md",
