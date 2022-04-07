@@ -16,3 +16,5 @@ If the search fails, then every imported context is searched recursively until a
 ### Atoms
 
 These are the atoms that may be held by the [sys+atomsfacet](facets/sys+atomsfacet.md) of a context:
+
+- [sys+namespaceatom](atoms/sys+namespaceatom.md)
