@@ -6,4 +6,4 @@ back: [intro](../intro.md#Atoms)
 
 Full read/write access to the contents of a gem is restricted to access by the gem itself and to access by other gems when they are part of the same federation.
 
-Read-only access is also allowed to any content of a gem which is invariant.
+Read-only access is also allowed to any of the content of a gem which is invariant.
