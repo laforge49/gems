@@ -12,3 +12,7 @@ Imports are implemented as a [Reference Set](basics/referencemap.md#Reference%20
 A name is resolved for a given context id to the id of a gem by matching the name to the names of the gems under that context and returning the id of the matching gem.
 
 If the search fails, then every imported context is searched recursively until a match is found. If there is still no match, then the given context id is returned.
+
+### Atoms
+
+These are the atoms that may be held by the [sys+atomsfacet](facets/sys+atomsfacet.md) of a context:
