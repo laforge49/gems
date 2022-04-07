@@ -14,6 +14,7 @@ Why are multiple journals supported for each layer? Journals in the same layer a
 
 - [name](basics/name.md)
 - [namespace](basics/namespace.md)
+- [atom](basics/atom.md)
 - [env](basics/env.md)
 - [gem](basics/gem.md)
   - [Facets](basics/gem.md#Facets)
@@ -26,10 +27,6 @@ Why are multiple journals supported for each layer? Journals in the same layer a
   - [Resolving Names](basics/context.md#Resolving%20Names)
 - [referencemap](basics/referencemap.md)
 - [federation](basics/federation.md)
-
-### Atoms
-
-[Atoms](https://clojure.org/reference/atoms) are used to wrap state which may be accessed by more than one go block. These atoms are found in [env](basics/env.md) and [gems](basics/gem.md)
 
 ### Gems
 

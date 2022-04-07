@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "basics/env.md",
-            "mode": "preview",
+            "mode": "source",
             "backlinks": false,
             "source": true
           }
@@ -102,13 +102,13 @@
   "lastOpenFiles": [
     "basics/env.md",
     "basics/context.md",
-    "facets/sys+atomsfacet.md",
     "basics/gem.md",
-    "atoms/sys+gemsatom.md",
+    "gems/root+sys.md",
     "intro.md",
+    "facets/sys+atomsfacet.md",
+    "basics/atom.md",
+    "atoms/sys+gemsatom.md",
     "basics/referencemap.md",
-    "basics/reference.md",
-    "basics/id.md",
-    "gems/root+sys.md"
+    "basics/reference.md"
   ]
 }
