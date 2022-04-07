@@ -1,3 +1,3 @@
-back: [Context](../basics/context.md)
+back: [Atoms](../basics/context.md#Atoms)
 
 # Sys+NamespaceAtom

@@ -6,7 +6,7 @@
   "spellcheck": true,
   "useTab": false,
   "newFileLocation": "current",
-  "newLinkFormat": "absolute",
+  "newLinkFormat": "relative",
   "alwaysUpdateLinks": true,
   "useMarkdownLinks": true,
   "strictLineBreaks": true,

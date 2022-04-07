@@ -1,7 +1,7 @@
 back: [intro](../intro.md#Basics)
 
 # Reference
-A reference is a string that contains an optional [prefix](basics/prefix.md), an optional [namespace](basics/namespace.md), a gem [name](basics/name.md) and an optional [rolename](basics/rolename.md). Using the namespace and name, the [id](basics/id.md) of a gem is easily constructed. And when the namespace is not present, the id can be [resolved](basics/context.md#Resolving%20Names) from the name within a given [context](basics/context.md).
+A reference is a string that contains an optional [prefix](prefix.md), an optional [namespace](namespace.md), a gem [name](name.md) and an optional [rolename](rolename.md). Using the namespace and name, the [id](id.md) of a gem is easily constructed. And when the namespace is not present, the id can be [resolved](context.md#Resolving%20Names) from the name within a given [context](context.md).
 
 The form of a reference is prefix#namespace+name^rolename. The shortest variation is simply a name. Some other variations include
 - namespace+name^rolename
@@ -19,4 +19,4 @@ A fully resolved reference is a vector with the following items:
 - gem id and
 - role id (or nil).
 
-A fully resolved reference is created from a reference string by [resolving](basics/context.md#Resolving%20Names) the elements named in the reference.
+A fully resolved reference is created from a reference string by [resolving](context.md#Resolving%20Names) the elements named in the reference.
