@@ -5,7 +5,7 @@ Every [gem](gem.md) is under a context, a type of gem, which serves as its [name
 
 Except for the root+sys context, every context will import one or more other contexts. The restriction here is that no two imported contexts may have the same [name](name.md), though context names need not be globally unique. Imports serve to virtually extend the namespace of a context.
 
-Imports are implemented as a [Reference Set](referencemap.md#Reference%20Sets) of context references included in the context data structure. The order of imports is significant and is managed via the prefixes of those references.
+Imports are implemented using the [sys+importclassifiers](../facets/sys+classifiersfacet.md#sys+importclassifiers). The order of imports is significant and is managed via the prefixes of those references.
 
 ### Resolving Names
 

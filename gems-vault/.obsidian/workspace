@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "facets/sys+classifiersfacet.md",
-            "mode": "preview",
+            "mode": "source",
             "backlinks": false,
             "source": true
           }
@@ -102,13 +102,13 @@
   "lastOpenFiles": [
     "facets/sys+classifiersfacet.md",
     "basics/context.md",
+    "basics/referencemap.md",
+    "intro.md",
+    "basics/gem.md",
     "atoms/sys+inverseclassifiersatom.md",
     "facets/sys+identityfacet.md",
-    "basics/gem.md",
     "atoms/sys+namespaceatom.md",
     "basics/namespace.md",
-    "facets/sys+atomsfacet.md",
-    "basics/referencemap.md",
-    "intro.md"
+    "facets/sys+atomsfacet.md"
   ]
 }
