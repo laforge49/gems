@@ -13,4 +13,9 @@ Every gem is under a [context](context.md), which means that the gem is a part o
 A gem has multiple facets which are used to organize the contents of a gem. Facets are implemented as [referencemaps](referencemap.md).
 
 - [sys+atomsfacet](../facets/sys+atomsfacet.md)
+  - [[../atoms/sys+gemsatom.md]]
 - [sys+classifiersfacet](../facets/sys+classifiersfacet.md)
+  - [sys contextclassifier](../facets/sys+classifiersfacet.md#sys%20contextclassifier)
+  - [sys importclassifiers](../facets/sys+classifiersfacet.md#sys%20importclassifiers)
+- [sys+descriptorsfacet](../facets/sys+descriptorsfacet.md)
+  - [sys federationdescriptor](../facets/sys+descriptorsfacet.md#sys%20federationdescriptor)

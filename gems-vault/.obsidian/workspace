@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "facets/sys+classifiersfacet.md",
-            "mode": "source",
+            "file": "atoms/sys+inverseclassifiersatom.md",
+            "mode": "preview",
             "backlinks": false,
             "source": true
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "facets/sys+classifiersfacet.md",
+                "file": "atoms/sys+inverseclassifiersatom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "538a1d48b2dbee76",
   "lastOpenFiles": [
-    "facets/sys+classifiersfacet.md",
-    "basics/context.md",
-    "basics/referencemap.md",
-    "intro.md",
-    "basics/gem.md",
     "atoms/sys+inverseclassifiersatom.md",
-    "facets/sys+identityfacet.md",
-    "atoms/sys+namespaceatom.md",
-    "basics/namespace.md",
-    "facets/sys+atomsfacet.md"
+    "atoms/sys+gemsatom.md",
+    "basics/env.md",
+    "basics/gem.md",
+    "facets/sys+descriptorsfacet.md",
+    "facets/sys+classifiersfacet.md",
+    "intro.md",
+    "basics/federation.md",
+    "facets/sys+atomsfacet.md",
+    "basics/atom.md"
   ]
 }
