@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "facets/sys+identityfacet.md",
-            "mode": "source",
+            "file": "basics/context.md",
+            "mode": "preview",
             "backlinks": false,
             "source": true
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "facets/sys+identityfacet.md",
+                "file": "basics/context.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "538a1d48b2dbee76",
   "lastOpenFiles": [
-    "facets/sys+identityfacet.md",
+    "basics/context.md",
     "atoms/sys+namespaceatom.md",
+    "facets/sys+classifiersfacet.md",
+    "atoms/sys+inverseclassifiersatom.md",
+    "basics/referencemap.md",
     "basics/gem.md",
     "facets/sys+atomsfacet.md",
+    "facets/sys+identityfacet.md",
     "intro.md",
-    "basics/context.md",
-    "basics/env.md",
-    "basics/federation.md",
-    "gems/root+sys.md",
-    "basics/atom.md"
+    "basics/env.md"
   ]
 }

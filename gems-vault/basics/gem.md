@@ -14,3 +14,4 @@ A gem has multiple facets which are used to organize the contents of a gem. Face
 
 - [sys+atomsfacet](../facets/sys+atomsfacet.md)
 - [sys+identityfacet](../facets/sys+identityfacet.md)
+- [sys+classifiersfacet](../facets/sys+classifiersfacet.md)
