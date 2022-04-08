@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "basics/context.md",
+            "file": "facets/sys+classifiersfacet.md",
             "mode": "preview",
             "backlinks": false,
             "source": true
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "basics/context.md",
+                "file": "facets/sys+classifiersfacet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "538a1d48b2dbee76",
   "lastOpenFiles": [
-    "basics/context.md",
-    "atoms/sys+namespaceatom.md",
     "facets/sys+classifiersfacet.md",
+    "basics/context.md",
     "atoms/sys+inverseclassifiersatom.md",
-    "basics/referencemap.md",
-    "basics/gem.md",
-    "facets/sys+atomsfacet.md",
     "facets/sys+identityfacet.md",
-    "intro.md",
-    "basics/env.md"
+    "basics/gem.md",
+    "atoms/sys+namespaceatom.md",
+    "basics/namespace.md",
+    "facets/sys+atomsfacet.md",
+    "basics/referencemap.md",
+    "intro.md"
   ]
 }
