@@ -10,4 +10,5 @@ Every gem is under a [context](context.md), which means that the gem is a part o
 
 ### Facets
 
-- [sys+atomsfacet](facets/sys+atomsfacet.md)
+- [sys+atomsfacet](../facets/sys+atomsfacet.md)
+- [sys+identityfacet](../facets/sys+identityfacet.md)
