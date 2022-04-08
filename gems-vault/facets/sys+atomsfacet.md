@@ -1,4 +1,4 @@
-back: [Facets](../basics/gem.md#Facets)
+back: [gem](../basics/gem.md#Facets)
 
 # Sys+AtomsFacet
 

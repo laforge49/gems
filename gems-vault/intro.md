@@ -16,6 +16,7 @@ Why are multiple journals supported for each layer? Journals in the same layer a
 - [namespace](basics/namespace.md)
 - [atom](basics/atom.md)
 - [env](basics/env.md)
+  - [Atoms](basics/env.md#Atoms)
 - [gem](basics/gem.md)
   - [Facets](basics/gem.md#Facets)
 - [id](basics/id.md)
@@ -25,6 +26,7 @@ Why are multiple journals supported for each layer? Journals in the same layer a
 - [rolename](basics/rolename.md)
 - [context](basics/context.md)
   - [Resolving Names](basics/context.md#Resolving%20Names)
+  - [Atoms](basics/context.md#Atoms)
 - [referencemap](basics/referencemap.md)
 - [federation](basics/federation.md)
 

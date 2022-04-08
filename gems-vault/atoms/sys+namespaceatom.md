@@ -1,4 +1,4 @@
-back: [Context](../basics/context.md#Atoms)
+back: [context](../basics/context.md#Atoms)
 
 # Sys+NamespaceAtom
 
