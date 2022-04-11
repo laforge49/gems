@@ -2,7 +2,7 @@ back: [intro](../intro.md#Basics)
 
 # Gem
 
-Gems are the entities the gems framework. Gems are implemented as [referencemap](referencemap.md)s and can operate asynchronously as individuals or synchronously within a [federation](federation.md). Gems which have received asynchronous requests have an associated [go block](goblocks.md) for processing such requests. I.E. Not every gem has an associated go block.
+Gems are the entities the gems framework. Gems are implemented as [referencemap](referencemap.md)s and can operate asynchronously as individuals or synchronously within a [federation](federation.md). Gems which have received asynchronous requests have an associated [go block](goblock.md) for processing such requests. I.E. Not every gem has an associated go block.
 
 The keys of a gem's contents are the [ids](id.md) of various facets,  including atoms, descriptors, classifiers, and relations.
 

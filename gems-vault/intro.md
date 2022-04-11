@@ -1,6 +1,6 @@
 # Introduction to Gems
 
-Gems is an experimental framework for knowledge applications. The API is intended to be rich in advanced features, but the scope is restricted to a single host and a moderately sized dataset. [Go blocks](basics/goblocks.md) are used to support multi-threading, and serialization is done using [YAML](https://en.wikipedia.org/wiki/YAML).
+Gems is an experimental framework for knowledge applications. The API is intended to be rich in advanced features, but the scope is restricted to a single host and a moderately sized dataset. [Go blocks](basics/goblock.md) are used to support multi-threading, and serialization is done using [YAML](https://en.wikipedia.org/wiki/YAML).
 
 ### A Generative Approach
 
