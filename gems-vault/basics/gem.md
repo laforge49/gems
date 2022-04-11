@@ -24,4 +24,4 @@ A gem has multiple facets which are used to organize the contents of a gem. Face
 
 These are the atoms which may be held by any type of gem:
 
-- [sys+channelstackatom](../atoms/sys+channelstackatom.md)
+- [sys+channelatom](../atoms/sys+channelatom.md)
