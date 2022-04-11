@@ -19,3 +19,9 @@ A gem has multiple facets which are used to organize the contents of a gem. Face
   - [sys importclassifiers](../facets/sys+classifiersfacet.md#sys%20importclassifiers)
 - [sys+descriptorsfacet](../facets/sys+descriptorsfacet.md)
   - [sys federationdescriptor](../facets/sys+descriptorsfacet.md#sys%20federationdescriptor)
+
+### Atoms
+
+These are the atoms which may be held by any type of gem:
+
+- [sys+channelstackatom](../atoms/sys+channelstackatom.md)
